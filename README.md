@@ -2,4 +2,4 @@ install: copy the .iwi files into ".../your iw4x directory/userraw/images" if yo
 
 militia_arm_col = opfor team (+default opfor gloves so it will because thats just how the file is..)
 udt_watch_sleeve = Seals team
-tf141_sleeve = should be obvious
+             tf141_sleeve = should be obvious
